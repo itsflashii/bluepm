@@ -8,5 +8,4 @@ instance.v4 = function ()
   end)
 end
 
-
 module.exports('myid', instance);
