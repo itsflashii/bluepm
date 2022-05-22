@@ -1,0 +1,24 @@
+<meta>
+  <info author="Soweto" type="script" version="1.0.0" />
+
+
+  <!-- Blue Package Manager -->
+  <script src="shared.lua" type="shared" />
+
+  <!-- Logics -->
+  <script src="logic/require.lua" type="shared" />
+  <script src="logic/exports.lua" type="shared" />
+
+
+  <!-- Blue Tests -->
+  <script src="bpm_modules/@myid/index.lua" type="server" />
+  <script src="bpm_modules/@fundapi/index.lua" type="server" />
+
+  <!-- Blue Packages -->
+  <script src="tests/test-fund.lua" type="server" />
+  <script src="tests/test-myid.lua" type="server" />
+
+
+
+
+</meta>
