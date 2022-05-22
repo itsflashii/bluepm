@@ -10,11 +10,11 @@
   <script src="logic/exports.lua" type="shared" />
 
 
-  <!-- Blue Tests -->
+  <!-- Blue Packages -->
   <script src="bpm_modules/@myid/index.lua" type="server" />
   <script src="bpm_modules/@fundapi/index.lua" type="server" />
 
-  <!-- Blue Packages -->
+  <!-- Blue Tests -->
   <script src="tests/test-fund.lua" type="server" />
   <script src="tests/test-myid.lua" type="server" />
 
