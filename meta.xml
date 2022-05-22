@@ -17,8 +17,4 @@
   <!-- Blue Tests -->
   <script src="tests/test-fund.lua" type="server" />
   <script src="tests/test-myid.lua" type="server" />
-
-
-
-
 </meta>
