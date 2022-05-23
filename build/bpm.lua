@@ -1,11 +1,3 @@
---[[
-
-* @author Vítor 'Soweto' Ribeiro
-* @copyright (c) Rocket Community
-* @license See LICENSE file on top-level directory
-
--]]
-
 local modules = {};
 
 function require(attrName)
