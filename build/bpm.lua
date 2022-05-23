@@ -1,5 +1,3 @@
-"use strict";
-
 --[[
 
 * @author Vítor 'Soweto' Ribeiro
