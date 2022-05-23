@@ -36,3 +36,11 @@ local say = require("coolmodule")
 print(say.getTime()) -- Returns game hour and minutes
 print(say.sayFoo("bar")) -- Returns "foo bar"
 ```
+
+<br>
+
+Contribute or consider following me at:
+
+| [![Vítor Ribeiro](https://github.com/itsSoweto.png?size=100)](https://github.com/itsSoweto) |
+| ----------------------------------------------------------------------------------------------- |
+| [Vítor Ribeiro](https://github.com/itsSoweto)     
