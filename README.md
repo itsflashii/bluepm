@@ -41,6 +41,6 @@ print(say.sayFoo("bar")) -- Returns "foo bar"
 
 Contribute or consider following me at:
 
-| [![Vítor Ribeiro](https://github.com/itsSoweto.png?size=100)](https://github.com/itsSoweto) |
+| [![Vítor Ribeiro](https://github.com/itsflashii.png?size=100)](https://github.com/itsflashii) |
 | ----------------------------------------------------------------------------------------------- |
-| [Vítor Ribeiro](https://github.com/itsSoweto)     
+| [Vítor Ribeiro](https://github.com/itsflashii)     
